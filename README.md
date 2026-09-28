@@ -1,3 +1,5 @@
+> **Moved:** this app now lives in [dipak-nehe/stock-value-mobile](https://github.com/dipak-nehe/stock-value-mobile) (folder `ios/`), together with the Android app and one shared end-to-end test suite. This repository is archived (read-only); its history is included there.
+
 # 10-Year Stock Value Analysis for iOS
 
 [![ios](https://github.com/dipak-nehe/stock-value-ios/actions/workflows/ios.yml/badge.svg)](https://github.com/dipak-nehe/stock-value-ios/actions/workflows/ios.yml)
